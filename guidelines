@@ -1,0 +1,13 @@
+Guidelines to push in repo skull :
+
+Must use conventional commit : https://www.conventionalcommits.org/en/v1.0.0/
+
+Must respect code hirarchy : ex : file llm.c would be in scr/llms/llm.c 
+
+Must clean the repo after test : no test files and such
+
+Every code must work without warning using gcc -Wall -Wextra
+
+Every code added must be added to the makefile
+
+
